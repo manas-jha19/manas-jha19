@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Manas Jha 👋
 
-<!--
-**manas-jha19/manas-jha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer who enjoys building full-stack applications and learning how real-world systems work behind the scenes.
 
-Here are some ideas to get you started:
+Currently focusing on the **MERN stack** and improving my backend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm working on
+
+- Building full-stack web applications
+- Learning better backend architecture
+- Improving problem solving and system design
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript
+- HTML
+- CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- Linux
+- VS Code
+
+---
+
+## 📌 Featured Project
+
+### StaySphere
+
+A full-stack property listing platform inspired by Airbnb.
+
+Features:
+- User authentication
+- Create, edit and delete listings
+- Image uploads
+- Reviews system
+- Mapbox integration
+
+Tech used:
+- Node.js
+- Express
+- MongoDB
+- EJS
+- Bootstrap
+
+---
+
+## 📈 Currently Learning
+
+- React.js
+- Building REST APIs
+- Full MERN stack applications
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/manas-jha19
