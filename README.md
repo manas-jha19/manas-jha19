@@ -58,14 +58,6 @@ Tech used:
 
 ---
 
-## 📈 Currently Learning
-
-- React.js
-- Building REST APIs
-- Full MERN stack applications
-
----
-
 ## 📫 Connect with me
 
 - GitHub: https://github.com/manas-jha19
